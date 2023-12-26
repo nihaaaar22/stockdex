@@ -1,0 +1,12 @@
+{
+  "name": "stockdex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/stockdex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nihar Shettigar",
+  "license": "MIT"
+}
